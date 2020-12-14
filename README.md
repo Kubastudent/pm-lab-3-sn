@@ -14,5 +14,7 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
-W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba nacisnięć przycisku przekroczy określoną ilosć?
+1. W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba nacisnięć przycisku przekroczy określoną ilosć?
 ODP: Funkcjonalność programu można rozbudować poprzez wprowadzenie zerowania przycisku po przekroczeniu określonej ilości. 
+2. W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obsługiwanych parametrów?
+ODP: 
